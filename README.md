@@ -1,0 +1,4 @@
+- 👋 @arlequinte (elle/she/her)
+- 👀 Etudiante M2 informatique appliquée aux sciences humaines (Ecole Nationale des Chartes, master TNAH) Aspirante *thécaire
+- 🌱 Débute en Python 3.0 ; XML-TEI ; HTML-CSS ; JavaScript ; SQL ; LaTeX ; Linux ; Shell ; UML ; Perl.
+- 💞️ Tout projet de valorisation de collections patrimoniales ; Histoire contemporaine / socio ; création d'outils d'aide à la recherche ; outils de gestion des collections et données numériques.
