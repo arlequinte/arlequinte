@@ -1,4 +1,4 @@
 - 👋 @arlequinte (elle/she/her)
-- 👀 Etudiante M2 informatique appliquée aux sciences humaines (Ecole Nationale des Chartes, master TNAH) Aspirante *thécaire
-- 🌱 Python, XQuery, PHP, Javascript
+- 👀 Bibliothécaire référente en gestion & analyse des données
+- 🌱 Python, PHP, Javascript
 - 💞️ Griffonne et choralise
